@@ -1,8 +1,8 @@
-# fbb
-FBB+ tool for facebook bruteforce attack 
+# chandu
+chandu tool for facebook bruteforce attack 
 # follow installation 
-# $ git clone https://github.com/Cabdulahi/fbb
-# $ cd fbb
+# $ git clone https://github.com/chandu1504/fb-brute-froce.git
+# $ cd chandu
 # $ chmod +X 
 # $ bash install.sh
-# $ python2 fbb+.py
+# $ python2 chandu+.py
